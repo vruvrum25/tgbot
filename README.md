@@ -5,7 +5,7 @@
 ## Установка на сервер
 
 1. Клонировать репозиторий:
-   `git clone https://github.com/ВАШ_НИК/repo.git /root/my_bot`
+   `git clone https://github.com/vruvrum25/repo.git /root/my_bot`
 
 2. Зайти в папку:
    `cd /root/my_bot`
